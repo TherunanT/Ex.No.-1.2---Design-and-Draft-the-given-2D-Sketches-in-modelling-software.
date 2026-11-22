@@ -32,7 +32,7 @@
 9.  Click finish sketch.
 
     
-   <img width="261" height="326" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/80cef505-b0f5-40a5-90e3-0b521be7a14f" />
+    <img width="261" height="326" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/80cef505-b0f5-40a5-90e3-0b521be7a14f" />
 
 10.  After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
 
