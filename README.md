@@ -25,6 +25,7 @@
 
 7.  Draw the circle of radius 20 mm and tangent it with the circle of radius 21 mm and circle of radius 40 mm and trim the unnecessary parts.
 8.  Then mirror the sketch to the other sides.
+
 9.  Click finish sketch.
     <img width="261" height="326" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/80cef505-b0f5-40a5-90e3-0b521be7a14f" />
 
