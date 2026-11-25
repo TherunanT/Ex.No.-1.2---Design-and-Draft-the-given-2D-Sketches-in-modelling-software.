@@ -39,8 +39,6 @@
 
 
  
- ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
  <img width="986" height="704" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/5b1afc4c-eb26-492e-93b1-6c5b08b241d2" />
